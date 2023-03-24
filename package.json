@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Efren Hernandez",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
